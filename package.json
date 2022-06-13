@@ -10,10 +10,11 @@
     "type": "",
     "url": ""
   },
+  
   "author": "Muddassir Ali Rana",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/muddassiralirana/Objection-JS-ORM-"
   },
   "homepage": "",
   "dependencies": {
